@@ -12,4 +12,6 @@ Risk mitigation parameters are added to both SA-CCR and CCR-RWA classes on top o
 For CCR RWA they are: PD, LGD, IRR, Credit risk, Liquidity risk and recovery rates.
 For SA-CCR they are: pfe, netting sets, risk mitigation.
 
+An example demonstration of the test file, which has real world data, can be seen here:
 
+![alt text](ccr_test.png)
