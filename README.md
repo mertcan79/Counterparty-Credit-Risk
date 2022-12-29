@@ -7,7 +7,9 @@ They are generally viewed as complex models that require substantial development
 
 The standardized approach for measuring counterparty credit risk exposures” (SA-CCR), the final standard for the calculation of counterparty credit risk of derivatives portfolios is compared to CCR RWA method with same data.
 
-Risk mitigation parameters are added to both SA-CCR and CCR-RWA classes on top of standard exposure and risk weights such as PD, LGD, IRR, Credit risk, Liquidity risk and recovery rates.
+Risk mitigation parameters are added to both SA-CCR and CCR-RWA classes on top of standard exposure and risk weights.
 
+For CCR RWA they are: PD, LGD, IRR, Credit risk, Liquidity risk and recovery rates.
+For SA-CCR they are: pfe, netting sets, risk mitigation.
 
 
